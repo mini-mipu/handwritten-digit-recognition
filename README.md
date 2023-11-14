@@ -1,8 +1,8 @@
 # handwritten-digit-recognition  
   
 ## model  
-use CNN training a model  
+CNN  
   
 ## app  
-tkinter
+使用tkinter建立使用者介面
 
